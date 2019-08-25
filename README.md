@@ -1,22 +1,45 @@
+# HaXplore - Submission Report Format
 
-# HaXplore, CodeFest 2019 Submissions
+This is the official code repository for Emblaze . This _type of application_ was developed during HaXplore, 
+the on-campus event conducted by Codefest, the annual departmental fest of Computer Science department of IIT-BHU.
 
-## Submissions
-All the Project Submissions have to be done by making an issue in this repository. The guidelines to be followed for the same have been mentioned below:
-1. The **Team Leader** has to open up an Issue for the project submission using his/her GitHub Account [here](https://github.com/codefest-iit-bhu/haxplore-submissions/issues/new?assignees=&labels=&template=haxplore-19-submission-template.md&title=).
-2. The **Issue Template** must be strictly followed. A submission not following the same would be termed as an INVALID one. The issue template will appear when you hit the above link.
-3. Do add appropriate **labels** according to your **Project Field & Track**. 
-4. Only a **single issue** has to be made for each individual project. Multiple submissions will be termed as an INVALID one.
-5. Do note that the README of your project repo should follow the format described in [sample_readme.md](https://github.com/codefest-iit-bhu/haxplore-submissions/blob/master/sample_readme.MD).
+### Emblaze
 
-## Labels
-One has to mark appropriate label in order for a submission to be valid for the HaXplore Hackathon. Each submission should have a valid label according to the Project Field & Track.
+ Akshita Mehta
+ Sonali Mehta
+ Monisha Gali
 
-## Project Track:
-Choose from -
-#### `Influence The Mass`
-#### `Revolutionize The Smart World`
-#### `Nuture The Future`
-#### `Enhance The Social Norms`
 
-You can find more details about the project tracks [here](https://drive.google.com/file/d/166NfQdjYtYGbf9MbeIeYt8nKStE20XBa/view?usp=sharing).
+#### FitAsFittle
+
+
+#### Overview
+
+Our website uses computer intelligence to check whether a person performs a specific workout properly or not, just as the actual life trainer does. It also counts how many times an exercise has been performed properly by an individual. The website also focuses on pregnant women as it suggests what exersises would keep them healthy and trains them to do that exercise properly. Our website also have a module for people who like to Meditate.
+Future Scope - More excercies could be added for specific 
+
+#### Technology used
+
+Javascript, HTML/CSS, Posenet, jQuery, json
+#### Screenshots/Demo Video
+
+Video Link - https://drive.google.com/open?id=1gRruKLv2cD4TFTSd8WsfbibK5iw02MW1
+
+#### Usage
+ Step 1 - Go to folder arom
+ Step 2 - Run index.html file
+
+
+#### Tracks used
+Enhance the social norms.
+Since technology has changed the way we exercise. So, we thought to make a way where everyone can exercise properly without any gym trainer. This idea will help people to maintain their health and keep them fit. Pregnant women requires special exercises, so our website will help them to maintain good health.
+
+
+#### AWS Services Used
+
+AWS helped us to host our website. It gave us faster processing speed to deploy our website. (There exsits some error)
+Here is the link of our website hosted on AWS server - http://ec2-34-215-148-135.us-west-2.compute.amazonaws.com/amor/
+
+
+
+
